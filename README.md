@@ -1,10 +1,10 @@
 
-# My Portfolio
-Welcome to my data portfolio! This space documents summaries of my projects and experiences.
+# 📚 My Portfolio
+Welcome to my data portfolio! This space documents summaries of some of my projects and experiences.
 
 ## SQL
 
-| Name | Description |
+| Link | Description |
 | --- | --- |
 | [FoodHub Orders](https://github.com/kyawsoe177/Food-Order-Analysis/blob/main/food_order.ipynb) | Identify high-demand restaurants, evaluate customer satisfaction levels, and understand temporal trends in ordering behavior. |
 | [International Debt Statistics](https://github.com/kyawsoe177/International-Debt-Statistics/blob/main/international_debt.ipynb) | Analysis of debt and its relevant information regarding each country. |
@@ -13,7 +13,7 @@ Welcome to my data portfolio! This space documents summaries of my projects and 
 
 ## Python
 
-| Name | Description |
+| Link | Description |
 | --- | --- |
 | [Airbnb Analysis](https://github.com/kyawsoe177/Air-bnb-Room-Analysis/blob/main/air_bnb.ipynb) | Data cleaning and discover Airbnb market |
 | [Students Food Choices](https://github.com/kyawsoe177/Students-Food-Choices/blob/main/food_choices.ipynb) | Data cleaning and explore food choices among a small group of students. |
@@ -22,6 +22,6 @@ Welcome to my data portfolio! This space documents summaries of my projects and 
 
 ## Tableau
 
-| Name | Description |
+| Link | Description |
 | --- | --- |
 | [Sale Overview Dashboard](https://github.com/kyawsoe177/Sale-Dashboard) | An analysis of sales performance, customer sales pattern, and purchasing behaviors. |
