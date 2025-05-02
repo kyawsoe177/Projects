@@ -1,4 +1,8 @@
-# SQL
+
+# My Portfolio
+Welcome to my data portfolio! This space documents summaries of my projects and experiences.
+
+## SQL
 
 | Name | Description |
 | --- | --- |
@@ -7,7 +11,7 @@
 | [Chinook Database Mini Case Study](https://github.com/kyawsoe177/Chinook-Dataset-Mini-Case-Study) |  Exploration of business insights such as sales trends, customer behaviour, and product performance. |
 
 
-# Python
+## Python
 
 | Name | Description |
 | --- | --- |
@@ -16,7 +20,7 @@
 | [Samsung Sale Dataset](https://github.com/kyawsoe177/Samsaung-Sale-Dataset) | Analysis and visualization of samsung sale dataset. |
 | [News Headlines Scraping](https://github.com/kyawsoe177/Web-Scraping) | Scraping news headlines from the Business section of the BBC website using Python and the BeautifulSoup library. |
 
-# Tableau
+## Tableau
 
 | Name | Description |
 | --- | --- |
