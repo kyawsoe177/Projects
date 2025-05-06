@@ -24,4 +24,4 @@ Welcome to my data portfolio! This space documents summaries of some of my proje
 
 | Link | Description |
 | --- | --- |
-| [Sale Overview Dashboard](https://github.com/kyawsoe177/Sale-Dashboard) | An analysis of sales performance, customer sales pattern, and purchasing behaviors. |
+| [Sale Overview Dashboard](https://github.com/kyawsoe177/Sale-Overview-Dashboard) | An analysis of sales performance, customer sales pattern, and purchasing behaviors. |
